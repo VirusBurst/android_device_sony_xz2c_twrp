@@ -1,3 +1,6 @@
+To Be Done => Sony Xperia XZ2 Compact OrangeFox Recovery
+Please be patient... Depression slows down cooking...
+
 TWRP device configuration for Sony Xperia XZ2
 ==============
 ## XDA Thread
